@@ -42,7 +42,7 @@ All data remains on your device and is never transmitted to external servers.
 
 If you have any questions or concerns about privacy or the app, please contact us at:
 
-**[Your Email Address]**
+alifplayapp@gmail.com
 
 ## Updates to Privacy Practices
 
@@ -57,7 +57,7 @@ Alif Play is designed to comply with:
 
 ---
 
-**Last Updated**: [Current Date]
+**Last Updated**: [Sep 30 2025]
 
 **Version**: 1.0
 
